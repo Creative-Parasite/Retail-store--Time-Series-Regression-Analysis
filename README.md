@@ -1,3 +1,5 @@
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evalyne-kamuri/)
+
 # 🏠 Retail-store--Time-Series-Regression-Analysis
 
 ![Time-Series-Analysis-768x427](https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis/assets/160054808/b9c95ddc-f1fa-462b-963e-f11352631115)
@@ -76,7 +78,7 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
       clone this repository to your desired folder
       ```
       cd my-folder
-      git clone https://github.com/Creative-Parasite/Telco-customer-churn-prediction.git
+      https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis.git
       ```
     - **Project directory:** 
        ```
