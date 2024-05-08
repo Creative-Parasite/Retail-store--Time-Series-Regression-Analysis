@@ -100,21 +100,21 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
      ```
        python -m pip install -qr requirements.txt
      ```
-# 📈 Trend
+## 📈 Trend
 Here for our analysis we will be looking at the sales of products over a period of time. Hence our plot graph is a trend.
 
 ![lp3 trend](https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis/assets/160054808/59dc9395-96ba-4ed9-bc3b-b9d4a14db1d1)
 
-# ☑️Contributions
+## ☑️Contributions
 Contributions, features and issues are welcome .
 
-# 🌠Show your support
+## 🌠Show your support
 If you like this project show some love with a  🌟 **STAR** 🌟
 
-# 🤝Acknowledgments 
+## 🤝Acknowledgments 
 I would like to extend my appreciations to my team project and Azubi Africa for their immense support in availing all the necessary resources for this project's success.
 
-# 📋License 
+## 📋License 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 🦹‍♀️ Author
