@@ -1,4 +1,7 @@
 # Retail-store--Time-Series-Regression-Analysis
+
+![Time-Series-Analysis-768x427](https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis/assets/160054808/b9c95ddc-f1fa-462b-963e-f11352631115)
+
 Tracking sales is the best way to know whether or not your store is contributing to your revenue. For Corporation Favorita, a large Ecuadorian-based grocery retailer wants to ensure that they always have the right quantity of products in stock.
 
 The objective of the analysis is:
