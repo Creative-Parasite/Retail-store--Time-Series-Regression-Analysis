@@ -1,4 +1,4 @@
-# Retail-store--Time-Series-Regression-Analysis
+# 🏠 Retail-store--Time-Series-Regression-Analysis
 
 ![Time-Series-Analysis-768x427](https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis/assets/160054808/b9c95ddc-f1fa-462b-963e-f11352631115)
 
@@ -13,7 +13,7 @@ ii) Predict store sales on the retailer.
 **TASK**
 -- Build a model that accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
-## FEATURES
+## 📑 FEATURES
 
 ***File Descriptions and Data Field Information***
 
@@ -67,4 +67,56 @@ Wages in the public sector are paid every two weeks on the 15th and on the last 
 
 A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
-## GETTTING STARTED
+## ⏳ GETTTING STARTED
+- **PREREQUISTES**
+  
+  Installation of VS CODE and Python
+  
+   - **Clone repository:**
+      clone this repository to your desired folder
+      ```
+      cd my-folder
+      git clone https://github.com/Creative-Parasite/Telco-customer-churn-prediction.git
+      ```
+    - **Project directory:** 
+       ```
+       cd my-project
+      ```
+
+    - **Create a virtual environment:**
+        ```
+        python -m venv env
+        ```
+
+  - **Activate the virtual environment:**
+    ```
+        env/Scripts/activate
+    ```
+    - **Install:**
+    Here, you need to recursively install the packages in the `requirements.txt` file using the command below 
+
+     ```
+       python -m pip install -qr requirements.txt
+     ```
+# Trend
+Here for our analysis we will be looking at the sales of products over a period of time. Hence our plot graph is a trend.
+
+![lp3 trend](https://github.com/Creative-Parasite/Retail-store--Time-Series-Regression-Analysis/assets/160054808/59dc9395-96ba-4ed9-bc3b-b9d4a14db1d1)
+
+# ☑️Contributions
+Contributions, features and issues are welcome .
+
+# 🌠Show your support
+If you like this project show some love with a  🌟 **STAR** 🌟
+
+# 🤝Acknowledgments 
+I would like to extend my appreciations to my team project and Azubi Africa for their immense support in availing all the necessary resources for this project's success.
+
+# 📋License 
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+## 🦹‍♀️ Author
+
+**Nyawira Kamuri**
+
+[@Creative-Parasite](https://github.com/Creative-Parasite)
