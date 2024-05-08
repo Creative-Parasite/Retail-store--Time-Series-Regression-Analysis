@@ -22,33 +22,33 @@ ii) Predict store sales on the retailer.
 
 * family identifies the type of product sold.
 
-. sales gives the total sales for a product family at a particular store at a given date. Fractional values are possible since products can be sold in fractional units (1.5 kg of cheese, for instance, as opposed to 1 bag of chips).
+* sales gives the total sales for a product family at a particular store at a given date. Fractional values are possible since products can be sold in fractional units (1.5 kg of cheese, for instance, as opposed to 1 bag of chips).
 
-. onpromotion gives the total number of items in a product family that were being promoted at a store at a given date.
+* onpromotion gives the total number of items in a product family that were being promoted at a store at a given date.
 
 **Test.csv**
 
-. The test data, having the same features as the training data. You will predict the target sales for the dates in this file.
+* The test data, having the same features as the training data. You will predict the target sales for the dates in this file.
 
-. The dates in the test data are for the 15 days after the last date in the training data.
+* The dates in the test data are for the 15 days after the last date in the training data.
 
 **Transaction.csv**
 
-. Contains date, store_nbr and transaction made on that specific date.
+* Contains date, store_nbr and transaction made on that specific date.
 
 **Sample_submission.csv**
 
-. A sample submission file in the correct format.
+* A sample submission file in the correct format.
 
 **Stores.csv**
 
-. Store metadata, including city, state, type, and cluster.
+* Store metadata, including city, state, type, and cluster.
 
-. cluster is a grouping of similar stores.
+* cluster is a grouping of similar stores.
 
 **Oil.csv**
 
-. Daily oil price which includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economical health is highly vulnerable to shocks in oil prices.)
+* Daily oil price which includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and its economical health is highly vulnerable to shocks in oil prices.)
 
 **Holidays_events.csv**
 
